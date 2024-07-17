@@ -1,0 +1,139 @@
+ 
+
+
+ *{
+    list-style: none;
+    text-decoration: none;
+ }
+.anchor a{
+    text-decoration: none;
+    color: black;
+}
+
+
+
+.highlight{
+    background: rgb(23, 127, 218);
+/* background: -webkit-linear-gradient(45deg, rgba(1,169,30,1) , rgba(144,25,216,1)); */
+-webkit-text-fill-color: transparent;
+-webkit-background-clip:text ;
+ background-clip:text ; 
+}
+
+
+
+.heading ,.heading-right{
+    color: rgb(153, 149, 149);
+}
+
+.line{
+    padding-left: 7%;
+
+}
+.left{
+    border-radius: 10px 10px;
+}
+
+.cnt{
+    background-color: #f2f2f2;
+}
+body{
+    background-color: #f2f2f2;
+
+}
+.face{
+    border-radius: 50% 50%;
+}
+.sunny:hover{
+    overflow: hidden;
+    transform: scale(1.1);
+    transform-origin: center;
+
+}
+.tourzoom:hover{
+    transform: scale(1.1);
+}
+
+.house:hover{
+    transform: scale(1.3);
+    color: purple;
+}
+.explore-h{
+    font-size:calc(16px + 5vw);
+    font-weight: bold;
+}
+
+.rounder{
+    border-radius: 18px 18px;
+}
+.cardheart{
+    inset: 4% 6% 0 auto;
+}
+.dil{
+}
+.htbtn{
+    border-radius: 12px 12px;
+    font-size: 1rem;
+
+}
+.cancle{
+    width: 16%;
+}
+.carsize{
+    width: 90px;
+    height: 90px;
+    margin-top: 4%;
+    margin-left: 12px;
+}
+.get_offer:hover{
+    color: rgb(7, 7, 8);
+    background-color: rgb(162, 161, 161);
+    font-weight: 700;
+}
+.get_offer{
+    color: white ;
+    background-color: rgb(13 4 104);
+    border-radius: 23px 23px;
+
+    
+}
+.highlight-color{
+    color: #7b7575;
+}
+.img-size{
+    width: 15px;
+    height: 15px;
+}
+.car-img{
+    width: 83px;
+
+}
+.blog-d{
+    font-size: 12px;
+}
+.middle{
+    margin-top: -42px;
+}
+.readmore{
+    background-color: #7b7575;
+    color: white;
+    border-radius: 25px 25px
+}
+.similar{
+    font-size: 12px;
+}
+.read:hover{
+color: rgb(54, 53, 50) !important;
+
+}
+.footer-img{
+    width: 130px;
+    height: 99px;
+}
+.ft{
+    background-color: #0d2857;
+}
+.copyright{
+    font-size: 12px;
+}
+
